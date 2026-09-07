@@ -1,16 +1,16 @@
-\<div align="center">
+<div align="center">
 
 # 👋 ¡Hola! Soy Harold Yaya
 
 ### 💻 Estudiante de Análisis de Sistemas Empresariales | Developer en formación
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Desarrollador+en+formaci%C3%B3n;Python+%7C+Java+%7C+Flask;Web+Development+%7C+MySQL;Docker+%7C+AWS+%7C+Git;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Desarrollador+en+formaci%C3%B3n;Python+%7C+Java+%7C+Flask;Web+Development+%7C+MySQL;Docker+%7C+AWS+%7C+Git;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Desarrollador+en+formaci%C3%B3n;Python+%7C+Java+%7C+Flask;Web+Development+%7C+MySQL;Docker+%7C+AWS+%7C+Git;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
 
-\<br>
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=HaroldYaya&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile Views"/>
 
-
-\</div>
+</div>
 
 ---
 
@@ -42,56 +42,98 @@ Actualmente estoy fortaleciendo mis conocimientos en programación, bases de dat
 
 ### 💻 Lenguajes
 
-\<p align="left">
+<p align="left">
 
-\<img src="[https://skillicons.dev/icons?i=python,java,html,css](https://skillicons.dev/icons?i=python,java,html,css)" />
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+</a>
 
-\</p>
+<a href="https://www.oracle.com/java/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+</a>
 
-### ⚙️ Frameworks y desarrollo
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/>
+</a>
 
-\<p align="left">
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/>
+</a>
 
-\<img src="[https://skillicons.dev/icons?i=flask](https://skillicons.dev/icons?i=flask)" />
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
+</a>
 
-\</p>
+</p>
+
+### ⚙️ Frameworks
+
+<p align="left">
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=flask" width="50" alt="Flask"/>
+</a>
+
+</p>
 
 ### 🗄️ Bases de datos
 
-\<p align="left">
+<p align="left">
 
-\<img src="[https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql)" />
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
+</a>
 
-\</p>
+</p>
 
 ### 🐳 DevOps & Cloud
 
-\<p align="left">
+<p align="left">
 
-\<img src="[https://skillicons.dev/icons?i=docker,aws,git,github](https://skillicons.dev/icons?i=docker,aws,git,github)" />
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/>
+</a>
 
-\</p>
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=aws" width="50" alt="AWS"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/>
+</a>
+
+</p>
 
 ### 🎨 Diseño
 
-\<p align="left">
+<p align="left">
 
-\<img src="[https://skillicons.dev/icons?i=figma](https://skillicons.dev/icons?i=figma)" />
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma"/>
+</a>
 
-\</p>
+</p>
 
 ---
 
 # 📚 Actualmente aprendiendo
 
-🚀 **Python & Flask**
-☕ **Java y desarrollo de aplicaciones**
-🌐 **Desarrollo Web**
-🗄️ **Bases de datos y SQL**
-🐳 **Docker y contenedores**
-☁️ **AWS y servicios Cloud**
-🔧 **Git, GitHub y Git Flow**
-🎨 **UI/UX y diseño con Figma**
+- 🚀 **Python & Flask**
+- ☕ **Java y desarrollo de aplicaciones**
+- 🌐 **Desarrollo Web**
+- 🗄️ **Bases de datos y SQL**
+- 🐳 **Docker y contenedores**
+- ☁️ **AWS y servicios Cloud**
+- 🔧 **Git, GitHub y Git Flow**
+- 🎨 **UI/UX y diseño con Figma**
 
 ---
 
@@ -103,183 +145,4 @@ Actualmente estoy fortaleciendo mis conocimientos en programación, bases de dat
 ▸ Desarrollo backend con Python / Flask
 ▸ Programación con Java
 ▸ Diseño y consultas de bases de datos
-▸ Control de versiones con Git
-▸ Trabajo con repositorios GitHub
-▸ Contenerización con Docker
-▸ Implementación de aplicaciones en AWS
-▸ Diseño de interfaces con Figma
-```
-
----
-
-# 🚀 Proyectos destacados
-
-### 🐍 API REST con Flask
-
-API desarrollada utilizando Python y Flask, aplicando conceptos de rutas, endpoints, métodos HTTP y comunicación con bases de datos.
-
-**Tecnologías:**
-
-\
-
-
----
-
-### ☁️ Implementación Web en AWS
-
-Proyecto académico orientado a la implementación de un servidor web utilizando una instancia EC2 y Apache.
-
-**Tecnologías:**
-
-
-\
-
-
----
-
-### 🎨 Aplicación móvil para estudiantes
-
-Concepto de aplicación móvil orientada a ayudar a estudiantes a organizar sus actividades, tareas y calendario académico.
-
-**Diseño realizado con:**
-
-
-
----
-
-### ☕ Proyectos Java
-
-Desarrollo de ejercicios y aplicaciones utilizando Java para fortalecer conceptos de programación orientada a objetos, estructuras y lógica de programación.
-
-**Tecnología:**
-
-
-
----
-
-# 📊 GitHub Stats
-
-\<div align="center">
-
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=HaroldYaya&show\_icons=true&theme=tokyonight&include\_all\_commits=true&count\_private=true](https://github-readme-stats.vercel.app/api?username=HaroldYaya\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true)"/>
-
-\<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldYaya&layout=compact&langs\_count=8&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldYaya\&layout=compact\&langs_count=8\&theme=tokyonight)"/>
-
-\</div>
-
----
-
-# 🔥 GitHub Streak
-
-\<div align="center">
-
-\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=HaroldYaya&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=HaroldYaya\&theme=tokyonight)" />
-
-\</div>
-
----
-
-# 📈 Mi enfoque
-
-```text
-        💡 IDEA
-          │
-          ▼
-      📋 PLANIFICAR
-          │
-          ▼
-      💻 DESARROLLAR
-          │
-          ▼
-       🧪 PROBAR
-          │
-          ▼
-       🚀 DEPLOY
-          │
-          ▼
-      📚 APRENDER
-          │
-          └──────────► 🔄 REPETIR
-```
-
-Creo que la mejor forma de aprender programación es **crear proyectos, equivocarse, investigar y volver a intentarlo**.
-
----
-
-# 🎯 Objetivos
-
-### 2026 🚀
-
-- [ ] Mejorar mis conocimientos de Python
-- [ ] Desarrollar APIs REST más completas
-- [ ] Fortalecer Java y POO
-- [ ] Mejorar mis conocimientos de SQL
-- [ ] Aprender Docker a profundidad
-- [ ] Continuar aprendiendo AWS
-- [ ] Crear proyectos personales
-- [x] Construir un portafolio profesional
-- [ ] Participar en proyectos colaborativos
-
----
-
-# 💻 Herramientas que utilizo
-
-\<p align="center">
-
-\<img src="[https://skillicons.dev/icons?i=vscode,git,github,docker,linux,figma](https://skillicons.dev/icons?i=vscode,git,github,docker,linux,figma)" />
-
-\</p>
-
----
-
-# 🌎 Más sobre mí
-
-```yaml
-name: Harold Yaya
-location: Peru
-education: Análisis de Sistemas Empresariales
-
-interests:
-  - Software Development
-  - Web Development
-  - Backend
-  - Cloud Computing
-  - Databases
-  - UI/UX
-
-currently_learning:
-  - Python
-  - Flask
-  - Java
-  - Docker
-  - AWS
-  - Git
-
-goal: "Convertirme en un desarrollador de software profesional 🚀"
-```
-
----
-
-# 📫 Conecta conmigo
-
-\<div align="center">
-
-\<a href="[https://github.com/HaroldYaya](https://github.com/HaroldYaya)">
-\<img src="[https://img.shields.io/badge/GitHub-HaroldYaya-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-HaroldYaya-181717?style=for-the-badge\&logo=github)" />
-\</a>
-
-\</div>
-
----
-
-\<div align="center">
-
-### 💙 Gracias por visitar mi perfil
-
-**⭐ Si encuentras interesante alguno de mis proyectos, no dudes en dejar una estrella.**
-
-\<br>
-
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0066FF&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:36BCF7,100:0066FF\&height=120\&section=footer)"/>
-
-\</div>
+▸ Control de versiones
