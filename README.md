@@ -137,12 +137,21 @@ Actualmente estoy fortaleciendo mis conocimientos en programación, bases de dat
 
 ---
 
-# 🛠️ Lo que puedo hacer
+# 📚 Lo que estoy aprendiendo
 
 ```text
-▸ Desarrollo de aplicaciones web
+▸ Fundamentos de programación
+▸ Desarrollo web
+▸ Python y Flask
+▸ Java y programación orientada a objetos
+▸ Bases de datos y SQL
 ▸ Creación de APIs REST
-▸ Desarrollo backend con Python / Flask
-▸ Programación con Java
-▸ Diseño y consultas de bases de datos
-▸ Control de versiones
+▸ Git y GitHub
+▸ Git Flow
+▸ Docker y contenedores
+▸ AWS y servicios Cloud
+▸ Linux
+▸ Diseño de interfaces con Figma
+```
+
+> 🚀 Mi objetivo es convertir estos conocimientos en proyectos reales a medida que sigo aprendiendo.
